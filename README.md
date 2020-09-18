@@ -10,4 +10,6 @@ The haar algorithm was used for recognition, and the posture of the neck was mea
 Two libraries are required to run this program, numpy and opencv.
  - pip install numpy
  - pip install opencv-python == 2.~
+ 
+ 
 Install numpy and opencv-python using this command. In the case of opencv, you must install the 2.~ version, otherwise it may not work properly.
